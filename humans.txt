@@ -1,0 +1,17 @@
+/* TEAM */
+
+Разработчик сайта: Юрий Савченко (Краснодар, Россия)
+
+Мой сайт: https://code4web.ru/
+Электронная почта: yurkaronin@gmail.com
+Ссылка на форму обратной связи: https://code4web.ru/personal-consultation/
+Мой телеграм: https://t.me/Yuriy_Ronin
+Телефон для связи: +7 (918) 089-60-09
+
+Last update (Обновлено): 2022/04/11
+
+Standards (Стандарты): HTML5, CSS3, JS
+
+Components (Компоненты): Swiper JS
+
+Software (Программное обеспечение): Visual Studio Code, Figma, Windows 10
