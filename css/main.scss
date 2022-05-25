@@ -2,5 +2,9 @@
 @import "parts/variables";
 // Локальные шрифты
 @import "parts/fonts";
+// normalize v8.0.1
+@import "parts/normalize";
 // Глобальные стили по тегу
 @import "parts/base";
+// служебные классы
+@import "parts/custom-support";
